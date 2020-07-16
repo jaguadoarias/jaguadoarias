@@ -1,5 +1,5 @@
 ## watered here 👋
-![watered, attending](/assets/images/attending.jpg)
+![watered, attending](./attending.jpg)
 
 ### UI/UX Developer 
 #### with more than 15 years of experience building and styling components and interfaces in different web development projects.
