@@ -1,5 +1,5 @@
 ## watered here 👋
-![watered, attending](https://github.com/jaguadoarias/jaguadoarias/blob/master/attending.jpg)
+![watered, attending](https://github.com/jaguadoarias/jaguadoarias/blob/master/attending.png)
 
 ### UI/UX Developer 
 #### with more than 15 years of experience building and styling components and interfaces in different web development projects.
@@ -8,19 +8,19 @@ I really enjoy working close to the design team, giving my feedback before intro
 
 I’m a specialist in responsive web design using cross-browser techniques and a pixel-perfect obsessed. I use and love to work with typographies, icons, colors, design tokens, SVG, inside a design system. 
 
-Every day trying to improve my knowledge about react, typescript, web prototyping with Figma and web accessibility.
-
-Use to work: HTML5, CSS3, styled-components, CSS modules, SASS & LESS, ITCSS, SMACSS, OOCSS, BEM, BEMIT & SUIT naming, PostCSS, Git (with terminal or Git client like GitKraken). With agile methodologies inside a squad.
+Every day trying to improve my knowledge about react, typescript, web prototyping with Figma and web accessibility. With agile methodologies inside a pod/squad 🚀.
 
 **Use to work:**
 
-- HTML5 & CSS3
-- RWD 
+- HTML5 & CSS3 
 - styled-components
 - CSS modules
-- SASS & LESS, ITCSS, SMACSS, OOCSS, BEM, BEMIT & SUIT naming
+- SASS
+- ITCSS, SMACSS, OOCSS, BEM, BEMIT & SUIT naming
 - PostCSS
 - javascript
+- react-testing-library
+- cypress
 - Git (with terminal like Warp or Git client like GitKraken)
 
 **Collaborative tools:**
