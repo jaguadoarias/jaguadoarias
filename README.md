@@ -13,7 +13,7 @@ I like to collaborate actively through thoughtful PR reviews and helping keep do
 Always trying to learn and improve my skills in React, TypeScript, Modern CSS, Figma prototyping, and web accessibility. 
 Working with agile methodologies inside a pod/squad 🚀.
 
-**Used to working with:** Warp & VSCode, HTML5, Modern CSS, JavaScript, CSS modules, Tailwind CSS, styled-components (RIP 🙂), SASS, BEM, ITCSS, Utility-First CS, PostCSS, React, React-testing-library, Cypress, Git
+**Used to working with:** Warp & VSCode, HTML5, Modern CSS, JavaScript, CSS modules, Tailwind CSS, styled-components (RIP 🙂), SASS, BEM, ITCSS, Utility-First CSS, PostCSS, React, React-testing-library, Cypress, Git
 
 
 **Collaborative tools:**  GitHub, JIRA, Confluence, Bitbucket, Storybook, Coda, Buildkite, Trello, Notion, Figma, Percy, Miro, Loom
