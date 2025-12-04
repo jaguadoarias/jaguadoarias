@@ -11,7 +11,8 @@ With 15+ years of experience, I focus on turning design into production-ready us
 
 I like to collaborate actively through thoughtful PR reviews and helping keep documentation clear, useful, and up to date.
 
-Always trying to learn and improve my skills in React, TypeScript, RWD, CSS, Figma prototyping, and web accessibility. 
+Always trying to learn and improve my skills in React, TypeScript, RWD, CSS, Figma prototyping, and web accessibility.
+
 Working with agile methodologies inside a pod/squad 🚀.
 
 **Used to working with:** Warp & VSCode, HTML5, Modern CSS, JavaScript, CSS modules, Tailwind CSS, styled-components (RIP 🙂), SASS, BEM, ITCSS, Utility-First CSS, PostCSS, React, React-testing-library, Cypress, Git
