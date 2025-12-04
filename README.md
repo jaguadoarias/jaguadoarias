@@ -15,7 +15,11 @@ Always trying to learn and improve my skills in React, TypeScript, RWD, CSS, Fig
 
 Working with agile methodologies inside a pod/squad 🚀.
 
-**Used to working with:** Warp & VSCode, HTML5, Modern CSS, JavaScript, CSS modules, Tailwind CSS, styled-components (RIP 🙂), SASS, BEM, ITCSS, Utility-First CSS, PostCSS, React, React-testing-library, Cypress, Git
 
 
-**Collaborative tools:**  GitHub, JIRA, Confluence, Bitbucket, Storybook, Coda, Buildkite, Trello, Notion, Figma, Percy, Miro, Loom
+**Used to working with:**  
+Warp & VSCode, HTML5, Modern CSS, JavaScript, CSS modules, Tailwind CSS, styled-components (RIP 🙂), SASS, BEM, ITCSS, Utility-First CSS, PostCSS, React, React-testing-library, Cypress, Git
+
+
+**Collaborative tools:**  
+GitHub, JIRA, Confluence, Bitbucket, Storybook, Coda, Buildkite, Trello, Notion, Figma, Percy, Miro, Loom
