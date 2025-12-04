@@ -4,7 +4,8 @@
 ### UI Frontend Developer · Design Engineer
 
 
-I’m a UI Frontend Developer combining solid frontend engineering skills with deep expertise in CSS architecture and Design Systems. I specialize in building scalable UI foundations, developing React/Typescript components, defining engineering patterns, and collaborating across product teams to deliver high-quality interfaces.
+I’m a UI Frontend Developer combining solid frontend engineering skills with deep expertise in Modern CSS methodologies, style architectures, and Design Systems. 
+I specialize in building scalable UI foundations, developing React/Typescript components, defining engineering patterns, and collaborating across product teams to deliver high-quality interfaces.
 
 With 15+ years of experience, I focus on turning design into production-ready user experiences: reusable components, well-structured styles, stable foundations, and visually accurate interfaces. I really enjoy being the bridge between design and engineering, staying involved in the design handoff process, translating design tokens into code, ensuring pixel-perfect results, improving accessibility, and helping maintain consistent patterns across teams and platforms.
 
